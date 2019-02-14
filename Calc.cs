@@ -1,4 +1,4 @@
 public void Calculate(int x)
 {
-return x*3;
+return x*x*x;
 }
